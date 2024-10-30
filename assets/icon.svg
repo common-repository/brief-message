@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:13.8884;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:26;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:21;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M493.1,505H18.4c-6.4,0-11.7-5.3-11.7-11.7V18.7C6.8,12.3,12,7,18.4,7h474.7c6.4,0,11.7,5.3,11.7,11.7v474.7
+	C504.8,499.7,499.5,505,493.1,505z"/>
+<line class="st1" x1="56" y1="258" x2="456" y2="254.3"/>
+<line class="st1" x1="61" y1="347" x2="361" y2="344.3"/>
+<line class="st1" x1="60.5" y1="433.8" x2="460.5" y2="430.2"/>
+<g>
+	<path class="st2" d="M237.4,138.5c20.6-0.2,20.8,19.8,41.4,19.6c20.6-0.2,20.4-20.2,41-20.4c20.6-0.2,20.8,19.8,41.4,19.6
+		c20.6-0.2,20.4-20.2,41-20.4c20.6-0.2,20.8,19.8,41.4,19.6"/>
+</g>
+<rect x="48" y="36" width="147" height="147"/>
+</svg>

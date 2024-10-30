@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brief message\n"
+"POT-Creation-Date: 2021-09-24 08:43+0900\n"
+"PO-Revision-Date: 2021-09-24 08:44+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: brief-message.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin.php:10
+msgid "Content"
+msgstr "内容"
+
+#: inc/admin.php:57 inc/register_post_type.php:28 inc/widget.php:207
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/register_post_type.php:8
+msgctxt "Post Type General Name"
+msgid "Brief messages"
+msgstr "Brief messages"
+
+#: inc/register_post_type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Brief message"
+msgstr "Brief message"
+
+#: inc/register_post_type.php:10 inc/register_post_type.php:11
+#: inc/widget.php:13
+msgid "Brief message"
+msgstr "Brief message"
+
+#: inc/widget.php:14
+msgid "Display a Brief message"
+msgstr "短いメッセージを表示する"
+
+#: inc/widget.php:24
+msgid "Message"
+msgstr "メッセージ"
+
+#: inc/widget.php:95
+msgid "No content"
+msgstr "コンテンツはありません"
+
+#: inc/widget.php:110
+msgid "Show more"
+msgstr "もっと見る"
+
+#: inc/widget.php:135
+msgid "New post"
+msgstr "新規投稿"
+
+#: inc/widget.php:138
+msgid "Post"
+msgstr "投稿"
+
+#: inc/widget.php:176
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/widget.php:180
+msgid "Posts per page"
+msgstr "1ページあたりの投稿"
+
+#: inc/widget.php:186
+msgid "User"
+msgstr "ユーザー"
+
+#: inc/widget.php:190 inc/widget.php:211
+msgid "Unspecified"
+msgstr "未定義"
+
+#: inc/widget.php:229
+msgid "Show more button"
+msgstr "もっと見るボタン"
+
+#: inc/widget.php:234
+msgid "Number of posts to display with Show more button"
+msgstr "もっと見るボタンで表示する投稿の数"
+
+#: inc/widget.php:239
+msgid "Show widget only for specific posts"
+msgstr "ウィジェットを特定の投稿のみ表示する"
+
+#: inc/widget.php:240
+msgid "Enter the post ID"
+msgstr "投稿IDを入力します"
+
+#: inc/widget.php:240
+msgid "e.g."
+msgstr "例"
+
+#: inc/widget.php:241
+#, php-format
+msgid "Separate multiple %s with ,(comma)."
+msgstr "%s が複数の場合は,(コンマ)で区切ります。"
+
+#: inc/widget.php:241
+msgid "ID"
+msgstr "ID"
+
+#: inc/widget.php:282
+msgid "a year ago"
+msgstr "去年"
+
+#: inc/widget.php:284
+#, php-format
+msgid "%s years ago"
+msgstr "%s年前"
+
+#: inc/widget.php:288
+msgid "a month ago"
+msgstr "先月"
+
+#: inc/widget.php:290
+#, php-format
+msgid "%s months ago"
+msgstr "%sヶ月前"
+
+#: inc/widget.php:294
+#, php-format
+msgid "%s weeks ago"
+msgstr "%s週間前"
+
+#: inc/widget.php:295
+msgid "a week ago"
+msgstr "先週"
+
+#: inc/widget.php:297
+#, php-format
+msgid "%s days ago"
+msgstr "%s日前"
+
+#: inc/widget.php:304
+msgid "an hour ago"
+msgstr "1時間前"
+
+#: inc/widget.php:307
+#, php-format
+msgid "%s hours ago"
+msgstr "%s時間前"
+
+#: inc/widget.php:309
+#, php-format
+msgid "yesterday at %s"
+msgstr "昨日の%s"
+
+#: inc/widget.php:313
+msgid "a minute ago"
+msgstr "1分前"
+
+#: inc/widget.php:315
+#, php-format
+msgid "%s minutes ago"
+msgstr "%s分前"
+
+#: inc/widget.php:317
+msgid "just now"
+msgstr "たった今"
+
+#: inc/widget.php:347
+msgid "Posting time"
+msgstr "投稿時刻"
+
+#: inc/widget.php:361
+msgid "Now Loading..."
+msgstr "読み込み中..."
+
+#: inc/widget.php:362
+msgid "Completed"
+msgstr "完了"
+
+#: inc/widget.php:363
+msgid "Error"
+msgstr "エラー"
+
+#: inc/widget.php:364
+msgid "Now posting..."
+msgstr "投稿中..."
+
+#: inc/widget.php:365
+msgid "Is blank"
+msgstr "空白です"
+
+#. Plugin Name of the plugin/theme
+msgid "Brief Message"
+msgstr "Brief Message"
+
+#. Plugin URI of the plugin/theme
+msgid "https://dev.back2nature.jp/en/brief-message/"
+msgstr "https://dev.back2nature.jp/brief-message/"
+
+#. Description of the plugin/theme
+msgid ""
+"Add a widget to display a short sentence.It will be displayed in the form of "
+"Twitter.Like the theme \"P2\", logged-in users can post from the front end."
+msgstr ""
+"短い文を表示するウィジェットを追加します。Twitterの様な形で表示させます。テー"
+"マ「P2」の様にログインユーザーはフロントエンドから投稿が可能です。"
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr "やーまん"
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr "https://back2nature.jp/"
+
+#~ msgid "https://back2nature.jp/plugins/brief-message"
+#~ msgstr "https://back2nature.jp/plugins/brief-message"
+
+#~ msgid "Add a widget to display a short sentence."
+#~ msgstr "短い文を表示するウィジェットを追加します。"
+
+#~ msgid "Submit"
+#~ msgstr "送信"
+
+#~ msgid "Next"
+#~ msgstr "次へ"
+
+#~ msgid "Show next button"
+#~ msgstr "次へボタンを表示"
+
+#~ msgid "Show next page button"
+#~ msgstr "次のページを表示ボタン"
+
+#~ msgid "Title:"
+#~ msgstr "タイトル:"

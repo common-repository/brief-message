@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Brief message\n"
+"POT-Creation-Date: 2021-09-24 08:43+0900\n"
+"PO-Revision-Date: 2020-12-28 22:02+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: brief-message.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin.php:10
+msgid "Content"
+msgstr ""
+
+#: inc/admin.php:57 inc/register_post_type.php:28 inc/widget.php:207
+msgid "Category"
+msgstr ""
+
+#: inc/register_post_type.php:8
+msgctxt "Post Type General Name"
+msgid "Brief messages"
+msgstr ""
+
+#: inc/register_post_type.php:9
+msgctxt "Post Type Singular Name"
+msgid "Brief message"
+msgstr ""
+
+#: inc/register_post_type.php:10 inc/register_post_type.php:11
+#: inc/widget.php:13
+msgid "Brief message"
+msgstr ""
+
+#: inc/widget.php:14
+msgid "Display a Brief message"
+msgstr ""
+
+#: inc/widget.php:24
+msgid "Message"
+msgstr ""
+
+#: inc/widget.php:95
+msgid "No content"
+msgstr ""
+
+#: inc/widget.php:110
+msgid "Show more"
+msgstr ""
+
+#: inc/widget.php:135
+msgid "New post"
+msgstr ""
+
+#: inc/widget.php:138
+msgid "Post"
+msgstr ""
+
+#: inc/widget.php:176
+msgid "Title"
+msgstr ""
+
+#: inc/widget.php:180
+msgid "Posts per page"
+msgstr ""
+
+#: inc/widget.php:186
+msgid "User"
+msgstr ""
+
+#: inc/widget.php:190 inc/widget.php:211
+msgid "Unspecified"
+msgstr ""
+
+#: inc/widget.php:229
+msgid "Show more button"
+msgstr ""
+
+#: inc/widget.php:234
+msgid "Number of posts to display with Show more button"
+msgstr ""
+
+#: inc/widget.php:239
+msgid "Show widget only for specific posts"
+msgstr ""
+
+#: inc/widget.php:240
+msgid "Enter the post ID"
+msgstr ""
+
+#: inc/widget.php:240
+msgid "e.g."
+msgstr ""
+
+#: inc/widget.php:241
+#, php-format
+msgid "Separate multiple %s with ,(comma)."
+msgstr ""
+
+#: inc/widget.php:241
+msgid "ID"
+msgstr ""
+
+#: inc/widget.php:282
+msgid "a year ago"
+msgstr ""
+
+#: inc/widget.php:284
+#, php-format
+msgid "%s years ago"
+msgstr ""
+
+#: inc/widget.php:288
+msgid "a month ago"
+msgstr ""
+
+#: inc/widget.php:290
+#, php-format
+msgid "%s months ago"
+msgstr ""
+
+#: inc/widget.php:294
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: inc/widget.php:295
+msgid "a week ago"
+msgstr ""
+
+#: inc/widget.php:297
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: inc/widget.php:304
+msgid "an hour ago"
+msgstr ""
+
+#: inc/widget.php:307
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: inc/widget.php:309
+#, php-format
+msgid "yesterday at %s"
+msgstr ""
+
+#: inc/widget.php:313
+msgid "a minute ago"
+msgstr ""
+
+#: inc/widget.php:315
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: inc/widget.php:317
+msgid "just now"
+msgstr ""
+
+#: inc/widget.php:347
+msgid "Posting time"
+msgstr ""
+
+#: inc/widget.php:361
+msgid "Now Loading..."
+msgstr ""
+
+#: inc/widget.php:362
+msgid "Completed"
+msgstr ""
+
+#: inc/widget.php:363
+msgid "Error"
+msgstr ""
+
+#: inc/widget.php:364
+msgid "Now posting..."
+msgstr ""
+
+#: inc/widget.php:365
+msgid "Is blank"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Brief Message"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://dev.back2nature.jp/en/brief-message/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add a widget to display a short sentence.It will be displayed in the form "
+"of Twitter.Like the theme \"P2\", logged-in users can post from the front "
+"end."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YAHMAN"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://back2nature.jp/"
+msgstr ""
